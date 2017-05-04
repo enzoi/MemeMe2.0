@@ -57,11 +57,6 @@
                                         </connections>
                                     </barButtonItem>
                                     <barButtonItem style="plain" systemItem="flexibleSpace" id="98J-4H-Eik"/>
-                                    <barButtonItem title="Change Font" id="W6b-Ku-k2v">
-                                        <connections>
-                                            <action selector="changeFont:" destination="BYZ-38-t0r" id="cI6-Eg-g4n"/>
-                                        </connections>
-                                    </barButtonItem>
                                 </items>
                                 <color key="barTintColor" red="0.80000001190000003" green="0.80000001190000003" blue="0.80000001190000003" alpha="1" colorSpace="calibratedRGB"/>
                             </toolbar>
